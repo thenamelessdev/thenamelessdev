@@ -1,16 +1,44 @@
-## Hi there 👋
+# Nameless
 
-<!--
-**thenamelessdev/thenamelessdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a learning full-stack developer passionate about building and coding.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- **Learning Path:** Full-stack development
+- **Languages & Tools:**  
+  HTML, CSS, JavaScript, Python, PHP
+- **Showcase:**  
+  Proud creator of [thenamelessdev.com](https://thenamelessdev.com)
+- **Discord:**  
+  `thenamelessdev`
+- **Interests:**  
+  Coding, learning new technologies, and building cool projects
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript frameworks
+- Back-end development with Python & PHP
+- Responsive and modern web design
+
+---
+
+## 🚀 Projects
+
+Check out my website and other repositories for my latest work!
+
+---
+
+## 📫 How to reach me
+
+- **Website:** [thenamelessdev.com](https://thenamelessdev.com)
+- **Discord:** thenamelessdev
+
+---
+
+Thanks for stopping by!  
+Happy Coding! 🚀
