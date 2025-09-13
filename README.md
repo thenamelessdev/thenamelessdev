@@ -21,7 +21,7 @@ I'm a learning full-stack developer passionate about building and coding.
 
 ## 🌱 Currently Learning
 
-- Advanced JavaScript frameworks
+- React
 - Back-end development with Python & PHP
 - Responsive and modern web design
 
