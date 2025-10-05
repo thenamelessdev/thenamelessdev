@@ -9,7 +9,7 @@ I'm a learning full-stack developer passionate about building and coding.
 
 - **Learning Path:** Full-stack development
 - **Languages & Tools:**  
-  HTML, CSS, JavaScript, Python, PHP
+  HTML, CSS, JavaScript (Node.js, express) Python, PHP
 - **Showcase:**  
   Proud creator of [thenamelessdev.com](https://thenamelessdev.com)
 - **Discord:**  
@@ -21,8 +21,9 @@ I'm a learning full-stack developer passionate about building and coding.
 
 ## 🌱 Currently Learning
 
-- React
-- Back-end development with Python & PHP
+- Advanced Node.js
+- Discord spcial SDKs and oauth2 system
+- Back-end development with Node.js & PHP
 - Responsive and modern web design
 
 ---
