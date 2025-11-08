@@ -9,7 +9,7 @@ I'm a learning full-stack developer passionate about building and coding.
 
 - **Learning Path:** Full-stack development
 - **Languages & Tools:**  
-  HTML, CSS, JavaScript (Node.js, express) Python, PHP
+  HTML, CSS, JavaScript (Node.js, express) Python, PHP, TypeScript
 - **Showcase:**  
   Proud creator of [thenamelessdev.com](https://thenamelessdev.com)
 - **Discord:**  
