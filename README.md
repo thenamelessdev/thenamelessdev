@@ -1,6 +1,6 @@
 # Nameless
 
-Welcome to my GitHub!  
+Hello world!
 I'm a learning full-stack developer passionate about building and coding.
 
 ---
@@ -9,7 +9,7 @@ I'm a learning full-stack developer passionate about building and coding.
 
 - **Learning Path:** Full-stack development
 - **Languages & Tools:**  
-  HTML, CSS, JavaScript (Node.js, express) Python, PHP, TypeScript
+  HTML, CSS, JavaScript (Node.js) Python, PHP, TypeScript, C++
 - **Showcase:**  
   Proud creator of [thenamelessdev.com](https://thenamelessdev.com)
 - **Discord:**  
@@ -21,9 +21,7 @@ I'm a learning full-stack developer passionate about building and coding.
 
 ## 🌱 Currently Learning
 
-- Advanced Node.js
-- Discord spcial SDKs and oauth2 system
-- Back-end development with Node.js & PHP
+- C++
 - Responsive and modern web design
 
 ---
