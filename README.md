@@ -9,9 +9,10 @@ I'm a learning full-stack developer passionate about building and coding.
 
 - **Learning Path:** Full-stack development
 - **Languages & Tools:**  
-  HTML, CSS, JavaScript Python, PHP, TypeScript, C++, Next.js, React, Express.js
+  HTML, CSS, JavaScript Python, PHP, TypeScript, C++, Next.js, React, Express.js, Go
 - **Showcase:**  
   Proud creator of [thenamelessdev.com](https://thenamelessdev.com)
+  Check out other things on [Nameless Productions](https://github.com/nameless-productions)
 - **Discord:**  
   `thenamelessdev`
 - **Interests:**  
@@ -21,9 +22,7 @@ I'm a learning full-stack developer passionate about building and coding.
 
 ## 🌱 Currently Learning
 
-- C++
-- Advanced Next.js
-- Auth systems using JWT
+- Go
 
 ---
 
