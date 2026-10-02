@@ -17,9 +17,15 @@ Self-taught developer building things with TypeScript, Go, and a 3D printer in t
 
 ---
 
+**Hacktime Stats**
+
+![hacktime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=61177&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+---
+
 **What I build**
 
-- Web apps with Next.js + Prisma + TypeScript
+- Web apps with SvelteKit + Prisma + TypeScript
 - CLI tools and Discord bots in Go
 - AI-integrated tools using the Anthropic Claude API
 - 3D printing projects and utilities
